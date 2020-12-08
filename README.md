@@ -8,6 +8,7 @@ Make it visible as a 2314 to VM/370 and crate a direcotry entry for UTS like thi
 
 This UTS is a verbatim doppel-gaenger of UNIX version 6 for VM/370, if you go and build lthat system. So this leads me and others to believe this UTS is actually a Unix v6. 
 
+You can find it here: https://www.tuhs.org/Archive/Distributions/IBM/370/
 
 Enjoy
 
