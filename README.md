@@ -1,4 +1,4 @@
-Amdah UTS
+Amdahl UTS
 =========
 
 This is Amdahl's UTS from 1975, a Unix v6 meant for the S/370 architecture. It can only run under VM/370, not directly on the hardware and not on any S/370 emulator. 
@@ -9,7 +9,7 @@ This video by Rene' Ferland shows how to install Amdahl UTS and how to operate i
 Installation
 ============
 
-Make it visible as a 3330 DASD to VM/370 and crate a direcotry entry for UTS like this: (will provide when I find the directory statmeent)
+Make it visible as a <b> 3330</b> DASD to VM/370 and crate a direcotry entry for UTS like this: (will provide when I find the directory statmeent)
 
 VM/370 Directory Entry 
 
