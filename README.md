@@ -7,6 +7,13 @@ This video by Rene' Ferland shows how to install Amdahl UTS and how to operate i
 
 Among the programmers working on UNIX v6 and it's twin brother UTS were Eric Schmidt (yes the chairman of Google) and Tom Lyon @aka_pugs on Twitter. 
 
+Contents
+========
+
+The <b> 3330</b> DASD and the VM/370 directory entry is really all you need. UTS can *only* run under VM/370. <p>
+The source code files are included also as compressed tar files, along with a cross-assembler to build the from .c into S/370 object files. 
+
+ <p><p>
 
 Installation
 ============
@@ -46,5 +53,5 @@ Moshix
 
 Dec 2020
 <br>
-updated: July 20 , 2021<p>
-Milan, Italy
+updated: July 21 , 2021<p>
+Triest, Italy
