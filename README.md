@@ -50,8 +50,8 @@ Amdahl UTS is abandonwware and as such no legal entanglements exist for this sof
 Enjoy
 
 Moshix
-
-Dec 2020
-<br>
+<p>
+Original upload: Dec 2020
+<br><p>
 updated: July 21 , 2021<p>
 Triest, Italy
