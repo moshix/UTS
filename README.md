@@ -12,6 +12,8 @@ Contents
 
 The <b> 3330</b> DASD and the VM/370 directory entry is really all you need. UTS can *only* run under VM/370. <p>
 The source code files are included also as compressed tar files, along with a C compiler and a cross-assembler to build the from .c into S/370 object files. 
+ <p>
+ A photograph of the original distribution DEC tape is also included.
 
  <p><p>
 
