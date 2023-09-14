@@ -10,7 +10,7 @@ This is Amdahl's UTS from 1975, a Unix v7 meant for the S/370 architecture. It c
 
 This video by Rene' Ferland shows how to install Amdahl UTS and how to operate it. It's quite a fascianting operating system. https://youtu.be/k56qLxG-sUM
 
-Among the programmers working on UNIX v6 and it's twin brother UTS were Eric Schmidt (yes the chairman of Google) and Tom Lyon @aka_pugs on Twitter. 
+Among the programmers working on UNIX v6 and UNIX v7 for the mainframe, and it's twin brother UTS, were Eric Schmidt (yes the chairman of Google) and Tom Lyon @aka_pugs on Twitter. 
 
 Contents
 ========
