@@ -6,7 +6,7 @@
 Amdahl UTS
 =========
 
-This is Amdahl's UTS from 1975, a Unix v6 meant for the S/370 architecture. It can only run under VM/370, not directly on the hardware and not on any S/370 emulator. 
+This is Amdahl's UTS from 1975, a Unix v7 meant for the S/370 architecture. It can only run under VM/370, not directly on the hardware and not on any S/370 emulator. 
 
 This video by Rene' Ferland shows how to install Amdahl UTS and how to operate it. It's quite a fascianting operating system. https://youtu.be/k56qLxG-sUM
 
@@ -46,7 +46,7 @@ MDISK 330 3330 211 160 UTSSYS WR AMDAHL AMDAHL
 MDISK 660 3330 371 030 UTSSYS WR AMDAHL AMDAHL
 </pre>
 
-This UTS is a verbatim doppel-gaenger of UNIX version 6 for VM/370, if you go and build that system. So this leads me and others to believe this UTS is actually a Unix v6. 
+
 
 You can find it here: https://www.tuhs.org/Archive/Distributions/IBM/370/
 
@@ -60,5 +60,5 @@ Moshix
 <p>
 Original upload: Dec 2020
 <br><p>
-updated: July 21 , 2021<p>
-Triest, Italy
+updated: September 21 , 2023<p>
+
